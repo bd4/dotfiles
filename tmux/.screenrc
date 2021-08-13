@@ -1,0 +1,7 @@
+termcapinfo xterm*|rxvt*|kterm*|Eterm* ti@:te@
+escape ^__
+defescape ^__
+startup_message off
+hardstatus on
+hardstatus alwayslastline
+defscrollback 100000
